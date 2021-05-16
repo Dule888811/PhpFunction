@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0c66662-572f-4e77-b94e-25ed4d0307ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1scgPk0L4LdDXloSnGoLE3INzBw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0c66662-572f-4e77-b94e-25ed4d0307ab" name="Default Changelist" comment="" />
+      <created>1621177269128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621177269128</updated>
+      <workItem from="1621177271299" duration="3853000" />
+      <workItem from="1621182260541" duration="3819000" />
+      <workItem from="1621188404317" duration="826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="422" key="NewPhpFileDialog" timestamp="1621177294860">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="464" y="422" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1621177294860" />
+    <state x="337" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1621188406443">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="337" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1621188406443" />
+  </component>
+</project>
